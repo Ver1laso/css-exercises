@@ -1,0 +1,21 @@
+.p1, .p2, .p3 {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#div1, #div2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+#div2 {
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
